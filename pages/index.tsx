@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <h1 className="text-3xl font-bold underline">
-        Tailwind Work!
+        Tailwind Works!
       </h1>
     </div>
   )
